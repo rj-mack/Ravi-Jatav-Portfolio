@@ -1,0 +1,24 @@
+
+.Detail{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: red; */
+
+}
+.left-d{
+    width: 50vw;
+    height: 100vh;
+    /* background-color: yellow; */
+}
+.left-d>img{
+    background-position:center ;
+    background-image: cover;
+}
+.right-d{
+    width: 50vw;
+    height: 50vh;
+    /* background-color: rgb(18, 2, 122); */
+}
